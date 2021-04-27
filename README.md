@@ -19,7 +19,7 @@ additional buildpacks. [Heroku supports using multiple buildpacks for an
 app.](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app)
 
 ```bash
-heroku buildpacks:add --index 1 https://github.com/mojodna/heroku-buildpack-cairo.git
+heroku buildpacks:add --index 1 https://github.com/sky-uk/heroku-buildpack-cairo.git
 ```
 
 ## Building
